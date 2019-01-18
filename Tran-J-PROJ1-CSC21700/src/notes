@@ -1,0 +1,41 @@
+bag1.insert(0.5);
+		bag1.insert(0.7);
+		bag1.insert(0.1);
+		bag1.insert(0.3);
+		bag1.insert(0.4);
+		bag1.insert(0.9);
+		bag1.insert(0.2);
+
+		bag1.insert(0.1);
+		bag1.insert(0.2);
+		bag1.insert(0.1);
+		bag1.insert(0.15);
+		bag1.insert(0.7);
+		bag1.insert(0.66);
+		bag1.insert(0.99);
+		bag1.insert(0.78);
+
+		bag1.insert(0.98);
+		bag1.insert(0.76);
+		bag1.insert(0.86);
+		bag1.insert(0.99);
+		bag1.insert(0.87);
+		bag1.insert(0.76);
+
+
+		bag1.insert(0.76);
+		bag1.insert(0.9);
+
+
+		bag1.insert(0.14);
+		bag1.insert(0.04);
+		bag1.insert(0.004);
+		bag1.insert(0.19);
+		bag1.insert(0.08);
+		bag1.insert(0.24);
+
+		bag1.insert(0.98);
+		bag1.insert(0.69);
+		bag1.insert(0.79);
+		bag1.insert(0.88);
+		bag1.insert(0.98);
